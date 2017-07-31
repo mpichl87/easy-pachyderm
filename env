@@ -1,0 +1,7 @@
+. ./bin/curl.bash
+. ./bin/wget.bash
+. ./bin/docker.bash
+. ./bin/virtualbox.bash
+. ./bin/kubectl.bash
+. ./bin/minikube.bash
+. ./bin/pachctl.bash
